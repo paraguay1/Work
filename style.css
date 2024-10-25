@@ -28,7 +28,7 @@ h1 {
 }
 
 nav {
-    diplay: flex;
+    display: flex;
     justify-content: center;
     font-weight: 400;
 }
