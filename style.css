@@ -44,3 +44,13 @@ nav a:hover {
     text-decoration: underline;
     transform: scale(0.90);
 }
+.graficos-conteiner {
+    margin: 5rem;
+}
+
+.graficos-conteiner__texto {
+    font-size: 1.3rem;
+    text-align: center;
+    padding: 2rem;
+    border: var(--secondary-color) solid 2px;
+}
